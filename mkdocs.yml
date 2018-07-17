@@ -1,6 +1,6 @@
 site_name: DataCanvas Modules Manual
 nav:
-    - Home: about.md
+    - Home: index.md
     - 单机模块: 
         - 通用模块: utils_py.md
         - SQL: SQL_py.md
